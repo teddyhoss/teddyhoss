@@ -1,6 +1,21 @@
-TEST
+# Welcome to ?????
 
-<!---
-teddyhoss/teddyhoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<pre>
+     .---.
+    /     \
+    \.@-@./
+    /`\_/`\
+   //  _  \\
+  | \     )|_
+ /`\_`>  <_/ \
+ \__/'---'\__/
+    
+   0010   1101
+   1100   0010
+   0101   1010
+   1001   0101
+
+ ╔═══════════════╗
+ ║ CODE BREAKER  ║
+ ╚═══════════════╝
+ </pre>
