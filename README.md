@@ -12,19 +12,7 @@
 |                                                                                   |
 | SYSTEM READY. Dive into the digital frontier.                                     |
 |___________________________________________________________________________________|
-                                                                                    |
-                                                                                    |
-                                                                                    |
-                                                                                    v
-```
 
-![Typing Animation](https://github.com/teddyhoss/teddyhoss/blob/main/typing.gif)
-
-```
-|
-|
-|
-v
 $ tech_expertise --list
 > Analyzing skills...
 > Generating report...
